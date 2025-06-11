@@ -1,0 +1,9 @@
+bitsandbytes
+langchain
+langchain_community
+chromadb
+huggingface_hub
+transformers
+torch
+pymupdf
+sentence-transformers
