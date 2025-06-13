@@ -47,7 +47,7 @@ The program will:
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.9+
 - NVIDIA GPU (recommended)
 - 8GB+ GPU memory
 
