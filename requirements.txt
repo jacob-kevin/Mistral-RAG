@@ -6,4 +6,7 @@ huggingface_hub
 transformers
 torch
 pymupdf
-sentence-transformers
+sentence_transformers
+accelerate
+einops
+xformers
